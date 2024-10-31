@@ -16,6 +16,10 @@ In our comparative analysis, YOLOv11 consistently demonstrated the best performa
 
 These results indicate that YOLOv11 is the most effective model for accurately detecting objects and offers the best overall balance between precision and recall. Therefore, it is deemed the most suitable model for military aircraft detection in our experiments.
 
+## Contact
+
+For any questions or inquiries, please contact(mail to : karbiswajit396@gmail.com)
+
 ## Installation and Usage
 1. Clone this repository:
    ```bash
