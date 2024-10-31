@@ -1,0 +1,85 @@
+# aircraft_dataset.yaml
+
+# Paths to your dataset
+train: "C:/Users/BISWAJIT/Desktop/Aircraft Dataset/train"  # Training data
+val: "C:/Users/BISWAJIT/Desktop/Aircraft Dataset/val"    # Validation data
+test: "C:/Users/BISWAJIT/Desktop/Aircraft Dataset/test"    # Test data
+
+# Number of classes
+nc: 73
+
+# Class names (list of aircraft categories)
+names:
+  - A10
+  - A400M
+  - AG600
+  - AH64
+  - AV8B
+  - An124
+  - An22
+  - An225
+  - An72
+  - B1
+  - B2
+  - B21
+  - B52
+  - Be200
+  - C130
+  - C17
+  - C2
+  - C390
+  - C5
+  - CH47
+  - CL415
+  - E2
+  - E7
+  - EF2000
+  - F117
+  - F14
+  - F15
+  - F16
+  - F22
+  - F35
+  - F4
+  - F18
+  - H6
+  - J10
+  - J20
+  - JAS39
+  - JF17
+  - JH7
+  - KC135
+  - KF21
+  - KJ600
+  - Ka27
+  - Ka52
+  - MQ9
+  - Mi24
+  - Mi28
+  - Mig29
+  - Mig31
+  - Mirage2000
+  - P3
+  - RQ4
+  - Rafale
+  - SR71
+  - Su24
+  - Su25
+  - Su34
+  - Su57
+  - TB001
+  - TB2
+  - Tornado
+  - Tu160
+  - Tu22M
+  - Tu95
+  - U2
+  - UH60
+  - US2
+  - V22
+  - Vulcan
+  - WZ7
+  - XB70
+  - Y20
+  - YF23
+  - Z19
