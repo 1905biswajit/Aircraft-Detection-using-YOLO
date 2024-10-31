@@ -6,7 +6,7 @@ This repository contains a comparative analysis of different versions of the YOL
 ## Dataset
 The dataset used for this project is sourced from Kaggle. You can access and download it using the following link: [Military Aircraft Detection Dataset](https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset).
 
-## Model Performance
+## Model Performance(epochs = 30, batch_size = 16)
 In our comparative analysis, YOLOv11 consistently demonstrated the best performance across key metrics:
 
 - **Precision**: 0.781
